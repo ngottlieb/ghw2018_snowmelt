@@ -1,4 +1,4 @@
-name: ghw2018_snowmelt1
+name: ghw2018_snowmelt
 channels:
 - conda-forge
 dependencies:
