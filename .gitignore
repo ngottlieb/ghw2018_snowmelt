@@ -1,0 +1,7 @@
+*.tif
+*.mat
+.DS_Store
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+ghw2018_snowmelt_data/*
