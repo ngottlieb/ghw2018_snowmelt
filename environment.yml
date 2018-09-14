@@ -15,3 +15,5 @@ dependencies:
 - jupyter
 - reproject
 - xarray
+- holoviews
+- geoviews
